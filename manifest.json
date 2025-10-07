@@ -1,0 +1,21 @@
+{
+  "name": "SushAnt Coins",
+  "short_name": "zeoxy-coins",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0070ba",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "ttiktok-logo-tiktok-icon-representing-social-media-NXSrnt6n.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "ttiktok-logo-tiktok-icon-representing-social-media-NXSrnt6n.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
